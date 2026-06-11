@@ -7,7 +7,9 @@ The Apartment Rental Management System is a web-based platform designed to simpl
 The system provides a convenient solution for both landlords and tenants by making rental information easily accessible online. Additionally, tenants can make rent payments through the platform, reducing manual work and saving time for all parties involved. This application is especially useful in urban areas where finding suitable rental housing can be challenging.
 
 Technologies Used
+
 Frontend
+
 HTML
 CSS
 JavaScript
